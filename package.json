@@ -53,6 +53,7 @@
     "prettier": "^1.7.4"
   },
   "engines": {
-    "node": "8.4.x"
+    "node": "18.x",
+    "npm": "8.x"
   }
 }
